@@ -10,7 +10,7 @@ $BLUE = "`e[34m"
 $NC = "`e[0m"
 
 # 配置文件路径
-$STORAGE_FILE = "$env:APPDATA\Cursor\User\globalStorage\storage.json"
+$STORAGE_FILE = "C:/Users/yanggh1/AppData/Roaming/Cursor/User/globalStorage/storage.json"
 $BACKUP_DIR = "$env:APPDATA\Cursor\User\globalStorage\backups"
 
 # 检查管理员权限
